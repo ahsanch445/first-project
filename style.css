@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-font-family: "Nimbus SanS L";
+font-family: "NimbusSanL",Arial, Helvetica, sans-serif;
 }
 html,body{
     height: 100%;
@@ -155,7 +155,7 @@ border-radius: 50%;
     border-radius: 100px;
     display: inline-block;
    
-    background-color: red;
+    
     margin: 0 10px;
   margin-bottom:-7.5px ;
 }
